@@ -7,4 +7,4 @@ This is a personal GitHub Pages portfolio to showcase my data analytics projects
 - Customer Churn Prediction (Python)
 - SQL Data Cleaning Case Study
 
-Visit the live site once deployed: https://pawankalkhuriya.github.io/
+Visit the live site : https://pawankalkhuriya.github.io/pawan.github.io/
