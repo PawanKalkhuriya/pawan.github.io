@@ -3,7 +3,7 @@
 This is a personal GitHub Pages portfolio to showcase my data analytics projects and skills.
 
 ## Projects Highlighted:
-- Sales Dashboard (Power BI)
+- **[AI-Job Trends - EDA (Python)](https://github.com/PawanKalkhuriya/AI-Job-Trends-EDA)**
 - Customer Churn Prediction (Python)
 - SQL Data Cleaning Case Study
 
